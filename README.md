@@ -1,1 +1,1 @@
-# Book-Mehendi-Art-Services
+# Diabetes prediction using Machine Learning Algos
