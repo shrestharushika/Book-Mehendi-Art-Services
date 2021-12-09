@@ -1,6 +1,6 @@
 # Team Name: Sunshine
 # Team Leader: Rushika Shrestha
-# Team Member: Kanika Gupta
+# Team Members: Rushika Shrestha and Kanika Gupta
 # Theme: HealthCare
 
 # Track
